@@ -10,7 +10,7 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 | **CPU**        | `Intel Core i5-10210U @ 1.6 GHz`           |
 | **iGPU**       | `Intel UHD Graphics`                  |
 | **Storage**    | `SAMSUNG MZALQ256HBJD-00BL2`  |
-| **Audio Code** | `ALC 230`                |
+| **Audio Codec** | `ALC 230`                |
 | **OS**         | `macOS Ventura 13.2 (22D49)`            |
 
 ## Working/Not Working
@@ -59,8 +59,16 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <details>
 <summary>Misc</summary>
   
-<!--- [ ] Sleep/Wake not working, straight up disable Sleep Mode (read SleepFix.md)-->
+- [ ] Sleep/Wake not working <!--, straight up disable Sleep Mode (read SleepFix.md)-->
 - [x] Sensors CPU, iGPU, Battery, NVMe, Fans
 - [x] Native NVRAM support
 - [x] Recovery (macOS) boot from OpenCore
 </details>
+
+## Credits
+
+* **Apple** for macOS
+* [**Acidanthera**](https://github.com/acidanthera) for OpenCore and the majority of the kexts
+* [**RehabMan**](https://github.com/RehabMan) for contributing to most of the ACPI patching guides I used
+* [**lshbluesky**](https://github.com/lshbluesky) for fixing I2C Touchpad issue
+* [**aben**](https://www.insanelymac.com/forum/profile/2480073-aben/) for fixing black screen issue on lock screen
