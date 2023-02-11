@@ -70,5 +70,6 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 * **Apple** for macOS
 * [**Acidanthera**](https://github.com/acidanthera) for OpenCore and the majority of the kexts
 * [**RehabMan**](https://github.com/RehabMan) for contributing to most of the ACPI patching guides I used
+* [**Feartech**](https://www.tonymacx86.com/members/feartech.877703/) for fixing boot issue
 * [**lshbluesky**](https://github.com/lshbluesky) for fixing I2C Touchpad issue
 * [**aben**](https://www.insanelymac.com/forum/profile/2480073-aben/) for fixing black screen issue on lock screen
