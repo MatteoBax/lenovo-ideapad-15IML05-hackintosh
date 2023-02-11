@@ -13,3 +13,61 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 | **Audio Code** | `ALC 230`                |
 | **OS**         | `macOS Ventura 13.2 (22D49)`            |
 
+## Working/Not Working
+
+<details>
+<summary>iGPU</summary>
+
+- [x] Intel UHD iGPU - Backlight support
+- [x] Intel UHD iGPU - HDMI Output
+- [x] Intel UHD iGPU - H264 & HEVC
+</details>
+
+<summary>dGPU</summary>
+
+- [] NVIDIA GeForce MX 130
+</details>
+
+<details>
+<summary>Audio</summary>
+
+- [x] Internal Speakers
+- [x] Internal Microphone
+</details>
+
+<details>
+<summary>USB</summary>
+  
+- [x] All USB ports working and mapped
+- [x] SD Card Reader
+- [x] Internal Webcam
+</details>
+
+<details>
+<summary>USB</summary>
+  
+- [x] All USB ports working and mapped
+- [x] SD Card Reader
+- [x] Internal Webcam
+</details>
+
+<details>
+<summary>Keyboard</summary>
+  
+- [x] Keyboard (PS2 based)
+</details>
+
+<details>
+<summary>Trackpad</summary>
+  
+- [x] I2C Touchpad with gestures (Thanks to[**lshbluesky**](https://github.com/lshbluesky))
+</details>
+
+<details>
+<summary>Misc</summary>
+  
+<!--- [ ] Sleep/Wake not working, straight up disable Sleep Mode (read SleepFix.md)-->
+- [x] Sensors CPU, iGPU, Battery, NVMe, Fans
+- [x] Native NVRAM support
+- [x] Recovery (macOS) boot from OpenCore
+</details>
