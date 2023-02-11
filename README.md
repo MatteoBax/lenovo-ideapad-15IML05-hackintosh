@@ -53,7 +53,7 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <details>
 <summary>Trackpad</summary>
   
-- [x] I2C Touchpad with gestures (Thanks to[**lshbluesky**](https://github.com/lshbluesky))
+- [x] I2C Touchpad with gestures (Thanks to [**lshbluesky**](https://github.com/lshbluesky))
 </details>
 
 <details>
