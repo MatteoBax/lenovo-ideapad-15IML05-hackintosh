@@ -23,9 +23,10 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 - [x] Intel UHD iGPU - H264 & HEVC
 </details>
 
+<details>
 <summary>dGPU</summary>
 
-- [] NVIDIA GeForce MX 130
+- [ ] NVIDIA GeForce MX 130
 </details>
 
 <details>
@@ -33,14 +34,6 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 
 - [x] Internal Speakers
 - [x] Internal Microphone
-</details>
-
-<details>
-<summary>USB</summary>
-  
-- [x] All USB ports working and mapped
-- [x] SD Card Reader
-- [x] Internal Webcam
 </details>
 
 <details>
