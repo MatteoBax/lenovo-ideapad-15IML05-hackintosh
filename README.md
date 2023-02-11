@@ -9,6 +9,7 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 |----------------|-------------------------------------------|
 | **CPU**        | `Intel Core i5-10210U @ 1.6 GHz`           |
 | **iGPU**       | `Intel UHD Graphics`                  |
+| **dGPU**       | `NVIDIA GeForce MX 130`                  |
 | **Storage**    | `SAMSUNG MZALQ256HBJD-00BL2`  |
 | **Audio Codec** | `ALC 230`                |
 | **OS**         | `macOS Ventura 13.2 (22D49)`            |
