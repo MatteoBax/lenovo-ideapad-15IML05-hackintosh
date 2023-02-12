@@ -4,6 +4,7 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/main/.images/Screenshot%202023-02-11%20at%2016.13.01.png"></img> 
 </p>
+<br>
 ## Specs
 
 | Component      | Brand                                     |
@@ -61,7 +62,7 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <details>
 <summary>Misc</summary>
   
-- [ ] Sleep/Wake not working <!--, straight up disable Sleep Mode (read SleepFix.md)-->
+- [ ] Sleep/Wake not working, straight up disable Sleep Mode (read [**Bildcraft1's SleepFix.md**](https://github.com/Bildcraft1/lenovo-ideapad-15ibd-hackintosh/blob/main/SleepFix.md)
 - [x] Sensors CPU, iGPU, Battery, NVMe, Fans
 - [x] Native NVRAM support
 - [x] Recovery (macOS) boot from OpenCore
