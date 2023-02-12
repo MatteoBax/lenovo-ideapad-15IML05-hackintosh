@@ -6,7 +6,7 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 </p>
 <br>
 
-## a
+
 ## Specs
 
 | Component      | Brand                                     |
