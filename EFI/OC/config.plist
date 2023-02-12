@@ -1411,7 +1411,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-wegnoegpu -igfxblr igfxonln=1 alcid=13 -btlfxallowanyaddr -vi2c-force-polling</string>
+				<string>-wegnoegpu -igfxblr igfxonln=1 alcid=13 -btlfxallowanyaddr -vi2c-force-polling keepsyms=1 swd_panic=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
