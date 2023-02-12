@@ -2,7 +2,7 @@
 My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/main/.images/Screenshot%202023-02-11%20at%2016.13.01.png"></img> 
+  <img src="https://raw.githubusercontent.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/main/.images/Screenshot%202023-02-11%20at%2016.13.01.png" />
 </p>
 <br>
 ## Specs
