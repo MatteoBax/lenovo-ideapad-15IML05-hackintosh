@@ -56,6 +56,12 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 </details>
 
 <details>
+<summary>Fingerprint reader</summary>
+  
+- [ ] Fingerprint reader
+</details>
+
+<details>
 <summary>Trackpad</summary>
   
 - [x] I2C Touchpad with gestures (Thanks to [**lshbluesky**](https://github.com/lshbluesky))
