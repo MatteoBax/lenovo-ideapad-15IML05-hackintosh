@@ -1187,6 +1187,8 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<false/>
+			<key>DisableIoMapperMapping</key>
+			<false/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -1432,7 +1434,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-wegnoegpu -igfxblr -igfxmlr igfxonl=1 alcid=13 -btlfxallowanyaddr -vi2c-force-polling keepsyms=1 swd_panic=1 Dart=0 darkwake=10</string>
+				<string>-v -wegnoegpu -igfxblr -igfxmlr igfxonl=1 alcid=13 -btlfxallowanyaddr -vi2c-force-polling debug=0x100 keepsyms=1 swd_panic=1 Dart=0 darkwake=10</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1501,7 +1503,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02026130CD0000AD</string>
+			<string>XX-CHANGE_ME-XX</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1513,9 +1515,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CXQZLP3XY</string>
+			<string>XX-CHANGE_ME-XX</string>
 			<key>SystemUUID</key>
-			<string>98829A33-FFE1-414B-8B99-73C52C6FD900</string>
+			<string>XX-CHANGE_ME-XX</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1751,6 +1753,10 @@
 			<false/>
 			<key>UIScale</key>
 			<integer>-1</integer>
+			<key>GopBurstMode</key>
+			<false/>
+			<key>InitialMode</key>
+			<string>Auto</string>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
@@ -1820,6 +1826,8 @@
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
+			<false/>
+			<key>ResizeUsePciRbIo</key>
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
