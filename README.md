@@ -2,7 +2,7 @@
 My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/main/.images/Screenshot%202023-02-11%20at%2016.13.01.png" />
+  <img src="https://raw.githubusercontent.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/main/.images/Ventura.png" />
 </p>
 <br>
 
@@ -16,7 +16,7 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 | **dGPU**       | `NVIDIA GeForce MX 130`                  |
 | **Storage**    | `SAMSUNG MZALQ256HBJD-00BL2`  |
 | **Audio Codec** | `ALC 230`                |
-| **OS**         | `macOS Ventura 13.2 (22D49)`            |
+| **OS**         | `macOS Ventura 13.4 (22F66)`            |
 
 ## Working/Not Working
 
