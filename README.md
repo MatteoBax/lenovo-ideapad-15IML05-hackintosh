@@ -2,7 +2,8 @@
 My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <br>
 <p align="center">
-  <img src="https://github.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/blob/44104747bd02b32e0acf68f685d9829694851706/.images/Ventura.png" />
+  ![Ventura](.images/Ventura.png)
+  <!--<img src="https://github.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/blob/44104747bd02b32e0acf68f685d9829694851706/.images/Ventura.png" />-->
 </p>
 <br>
 
