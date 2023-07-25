@@ -1515,7 +1515,7 @@
 		<key>CustomMemory</key>
 		<false/>
 		<key>Generic</key>
-		dict>
+		<dict>
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MaxBIOSVersion</key>
