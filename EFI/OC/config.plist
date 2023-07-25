@@ -1814,6 +1814,8 @@
 			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
+			<key>PciIo</key>
+			<false/>
 		</dict>
 		<key>Quirks</key>
 		<dict>
