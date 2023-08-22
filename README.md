@@ -1,10 +1,10 @@
 # OpenCore 0.9.4 - Lenovo Ideapad 15IML05 i5 10210U (No dGPU)
 My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <br>
-<p align="center">
-  ![Testo alternativo](https://raw.githubusercontent.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/master/.images/Ventura.png)
+<div align="center">
+  ![Ventura](https://raw.githubusercontent.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/master/.images/Ventura.png)
   <!--<img src="https://github.com/MatteoBax/lenovo-ideapad-15IML05-hackintosh/blob/44104747bd02b32e0acf68f685d9829694851706/.images/Ventura.png" />-->
-</p>
+</div>
 <br>
 
 
