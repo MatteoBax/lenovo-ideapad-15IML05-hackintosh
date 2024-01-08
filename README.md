@@ -71,7 +71,8 @@ My EFI for the Lenovo Ideapad 15IML05 (No dedicated graphics)
 <summary>Misc</summary>
   
 - [ ] Sleep/Wake not working, straight up disable Sleep Mode (read [**Bildcraft1's SleepFix.md**](https://github.com/Bildcraft1/lenovo-ideapad-15ibd-hackintosh/blob/main/SleepFix.md))
-- [x] Sensors CPU, iGPU, Battery, NVMe, Fans
+- [x] Sensors CPU, iGPU, Battery, Fans
+- [ ] The integrated NVMe SSD works but overheats quickly due to TRIM failure. It is advisable to replace the SSD with a supported one (see https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.html)
 - [x] Native NVRAM support
 - [x] Recovery (macOS) boot from OpenCore
 </details>
